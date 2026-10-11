@@ -1,3 +1,5 @@
+package ru.homework.CustomHashMap;
+
 import java.util.Collection;
 import java.util.Set;
 
